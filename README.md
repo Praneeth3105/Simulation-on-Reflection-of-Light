@@ -20,10 +20,6 @@ The simulation is fully interactive and runs directly in the browser.
 ## ✨ Features
 - Interactive **light ray animation**
 - Adjustable **angle of incidence** using a slider
-- Multiple reflecting surfaces:
-  - Glass
-  - Sand
-  - Water
 - Tooltip-based explanations for objects
 - Show / hide light rays
 - Reset simulation functionality
@@ -48,8 +44,6 @@ Project/
 └── Images/
     ├── Sun.png
     ├── Glass.png
-    ├── Sand.jpeg
-    ├── Water.jpeg
     ├── Person.png
     └── Background.jpg
 ```
