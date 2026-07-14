@@ -45,6 +45,5 @@ Project/
     ├── Sun.png
     ├── Glass.png
     ├── Person.png
-    └── Background.jpg
 ```
 
